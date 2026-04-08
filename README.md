@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/abdul-rehman-rattu-395bba237"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rattu786.ar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:abdul.rehman@rapidetechnologies.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=minutemailer&logoColor=white"/></a>
   <a href="https://www.rapidetechnologies.com"><img src="https://img.shields.io/badge/Website-Rapide_Technologies-172B4D?style=for-the-badge&logo=globe&logoColor=white"/></a>
 </p>
 
@@ -131,7 +131,7 @@ I utilize a highly modern, production-ready technology stack to guarantee maximu
 
 If you are a business owner or enterprise stakeholder looking to optimize your workflows, build a custom SaaS architecture, or deploy a transformative AI product, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation. With my proven track record as an Enterprise AI Consultant and AI Developer, your project is in excellent hands.
 
-**[Contact Abdul Rehman Rattu for an Executive Consultation](mailto:rattu786.ar@gmail.com)**
+**[Contact Abdul Rehman Rattu for an Executive Consultation](mailto:abdul.rehman@rapidetechnologies.com)**
 
 **[Connect on LinkedIn](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)** | **[Visit Rapide Technologies for Solutions](https://www.rapidetechnologies.com)**
 
