@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdul Rehman Rattu - AI Expert & ML Consultant
+# Abdul Rehman Rattu - Enterprise AI Solutions Expert
 
 <a href="https://linkedin.com/in/abdul-rehman-rattu-395bba237">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Expert+in+Agentic+AI+%26+Enterprise+Solutions;Deep+Learning+%26+Computer+Vision+Specialist;SaaS+Product+Development+Consultant" alt="Abdul Rehman Rattu CEO Rapide Technologies" />
