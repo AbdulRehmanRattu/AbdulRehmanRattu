@@ -54,24 +54,42 @@ As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies
 At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have successfully architected and delivered transformative AI products across multiple industries.
 
 ### 🏥 HealthTech & Medical Imaging
-- **EpiDetect (MVP+)**: An advanced AI-driven diagnostic tool designed to monitor and detect epileptic conditions, providing healthcare practitioners with comprehensive analytical capabilities.
-- **DermaSense**: An AI-powered desktop application utilizing YOLOv5 and GPT-3.5 for real-time skin condition analysis and remote virtual dermatological consultations.
-- **Rapide Medical Assistant**: An intelligent X-ray diagnostic system combining deep learning, OCR, and a conversational AI interface to extract and predict critical medical insights.
-- **MedCPT-AI**: A specialized healthcare conversational assistant that interprets CPT (Current Procedural Terminology) codes, streamlining medical billing and documentation workflows.
+
+| Solution | Enterprise Application Impact | Technology Stack |
+| :--- | :--- | :--- |
+| **EpiDetect** | An advanced AI-driven diagnostic tool designed to monitor and detect epileptic conditions, providing healthcare practitioners with comprehensive analytical capabilities and accurate diagnosis support. | `Computer Vision` `Deep Learning` `Python` |
+| **DermaSense** | An AI-powered application for real-time skin condition analysis and remote virtual dermatological consultations, delivering personalized skincare advice. | `YOLOv5` `GPT-3.5` `PyQt5` |
+| **Rapide Medical Assistant** | An intelligent X-ray diagnostic system combining deep learning, OCR, and a conversational AI interface to extract and predict critical medical insights rapidly. | `Machine Learning` `OCR` `NLP` `GenAI` |
+| **MedCPT-AI** | A specialized healthcare conversational assistant that interprets CPT (Current Procedural Terminology) codes, streamlining medical billing and documentation workflows. | `LLMs` `NLP` `Prompt Engineering` |
+| **Facial Paralysis System** | A medical AI system analyzing facial patterns through advanced computer vision to assist healthcare professionals in early diagnosis and treatment planning. | `Computer Vision` `Face Mapping` |
 
 ### 🏭 Business Automation & AI SaaS
-- **HR Analytics Platform**: An enterprise-grade AI solution that transforms raw HR data into predictive workforce trends, enabling data-driven people management.
-- **Brandelo**: An automated AI marketing suite that streamlines brand identity creation, including generative AI design tasks and logo creation.
-- **Quotation Automation Tool**: A procurement automation system that interfaces with live supplier data to generate instant, error-free price quotations.
-- **AI-Powered Invoice OCR**: A scalable financial automation tool utilizing dual OCR engines (Tesseract & EasyOCR) to extract structured data from diverse invoice formats (PDF, JPG).
+
+| Solution | Enterprise Application Impact | Technology Stack |
+| :--- | :--- | :--- |
+| **HR Analytics Platform** | An enterprise-grade AI solution that transforms raw HR data into predictive workforce trends, enabling data-driven people management and strategic scaling. | `Predictive Analytics` `Data Science` |
+| **AI-Powered Invoice OCR** | A scalable financial automation tool utilizing dual OCR engines to extract structured data from diverse invoice formats, eradicating manual data entry errors. | `Python` `Tesseract` `EasyOCR` |
+| **Quotation Automation** | A procurement automation system that interfaces with live supplier data to generate instant, accurate price quotations, optimizing B2B workflows. | `Data Automation` `API Integration` |
+| **Brandelo** | An automated AI marketing suite that streamlines brand identity creation, including high-end generative AI design tasks and logo creation for businesses. | `Generative AI` `Design Algorithms` |
+| **GeoSmarts** | An educational SaaS platform generating comprehensive learning modules using advanced AI architectures to create thorough academic materials. | `GPT Models` `Flux Architecture` |
 
 ### 💬 Conversational AI & Advanced NLP
-- **Persona Pitch**: A sophisticated GPT-4 and Whisper-powered voice-to-voice assistant designed to train sales teams by simulating diverse client personalities and moods.
-- **AstroAI / Flavour Fellow**: Customer-centric conversational interfaces providing automated insights, resolving queries, and managing restaurant ordering systems using fine-tuned OpenAI models.
+
+| Solution | Enterprise Application Impact | Technology Stack |
+| :--- | :--- | :--- |
+| **Persona Pitch** | A sophisticated voice-to-voice assistant designed to train corporate sales teams by dynamically simulating diverse client personalities, moods, and objections. | `GPT-4` `Whisper Speech` `Voice AI` |
+| **AstroAI** | A high-performance conversational interface providing automated, personalized insights and real-time generation through an intuitive GUI. | `Python` `Tkinter` `OpenAI API` |
+| **Flavour Fellow** | A mobile-first AI application resolving customer queries, delivering allergen alerts, and managing restaurant POS operations using fine-tuned models. | `Flutter` `Fine-Tuned LLMs` |
+| **News Sentiment Analyzer** | A robust intelligence tool tracking global sentiment across news channels, delivering visualized analytical reports based on LLM-driven parsing. | `LLMs` `Sentiment Analysis` `Dashboards`|
 
 ### 🏙️ Smart City Infrastructure & Predictive Analytics
-- **Aroma AeroTracking (RoadEye)**: An automated infrastructure management system that processes 4K drone feeds in real-time via Edge AI to map urban road defects.
-- **Accident Prediction System**: A predictive analytics grid analyzing historical traffic data to proactively identify high-risk road zones, enabling smarter urban navigation.
+
+| Solution | Enterprise Application Impact | Technology Stack |
+| :--- | :--- | :--- |
+| **Aroma AeroTracking** | An automated infrastructure management system processing 4K drone feeds in real-time via Edge AI to accurately map and geolocate urban road defects. | `Edge AI` `YOLOv5` `Flask` `Next.js` |
+| **Accident Prediction System**| A predictive analytics system leveraging historical traffic grid data to proactively identify high-risk road zones, enabling smarter urban planning and navigation safety. | `Predictive Analytics` `Grid Analysis` |
+| **AI Sherlock (KYC)** | An advanced verification system utilizing computer vision and pattern recognition for the instantaneous authentication of enterprise documents and credentials. | `OCR` `Computer Vision` `Authentication`|
+| **Asbestos Detection App** | A mobile application deploying AI-powered computer vision to analyze construction materials, predicting risk scores and integrating laboratory safety protocols. | `Mobile Dev` `Computer Vision` |
 
 <br>
 
@@ -113,7 +131,7 @@ I utilize a modern, scalable tech stack to guarantee high performance:
 
 Looking to optimize your workflows or build a custom AI product? At Rapide Technologies, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation.
 
-**[📧 Drop me an email and let's schedule a meeting](mailto:rattu786.ar@gmail.com)** | **[🌐 Visit Rapide Technologies](https://www.rapidetechnologies.com)**
+**[📧 Drop me an email and let's schedule a meeting](mailto:rattu786.ar@gmail.com)** | **[🌐 Visit Rapide Technologies for Solutions](https://www.rapidetechnologies.com)**
 
 <br>
 
