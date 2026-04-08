@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Abdul Rehman Rattu
+# Hi, I'm Abdul Rehman Rattu
 
 <a href="https://linkedin.com/in/abdul-rehman-rattu-395bba237">
     <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Building+Enterprise+AI+Solutions;Crafting+Next-Gen+SaaS+Products;Transforming+Data+into+Business+Value" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Driving Growth Through Intelligent Automation
+### Driving Growth Through Intelligent Automation
 
 As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies.com)**, I specialize in delivering high-impact **AI Solutions, AI SaaS, and AI Business Automations**. My core focus is to help real businesses scale, optimize workflows, and increase revenue through cutting-edge AI Product Development. We transform complex data into tangible business solutions.
 
@@ -22,26 +22,26 @@ As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies
 
 <br>
 
-## 💼 Core Business Services
+## Core Business Services
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Business Solutions</h3>
+      <h3>AI Business Solutions</h3>
       <p>Custom-built machine learning and predictive AI models tailored to solve specific enterprise challenges and drive strategic decision-making.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ AI SaaS & Product Development</h3>
+      <h3>AI SaaS & Product Development</h3>
       <p>End-to-end architecture, development, and deployment of robust software-as-a-service platforms infused with advanced AI capabilities.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ AI Business Automations</h3>
+      <h3>AI Business Automations</h3>
       <p>Streamlining operational workflows by integrating intelligent automation, from NLP-powered support bots to intelligent document processing (OCR).</p>
     </td>
     <td width="50%" valign="top">
-      <h3>☁️ Scalable Tech Architecture</h3>
+      <h3>Scalable Tech Architecture</h3>
       <p>Ensuring that every AI product we develop for your business is backed by secure, scalable, and high-performance cloud infrastructure.</p>
     </td>
   </tr>
@@ -49,11 +49,11 @@ As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies
 
 <br>
 
-## 🏆 Featured Enterprise Projects & Solutions
+## Featured Enterprise Projects & Solutions
 
 At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have successfully architected and delivered transformative AI products across multiple industries.
 
-### 🏥 HealthTech & Medical Imaging
+### HealthTech & Medical Imaging
 
 | Solution | Enterprise Application Impact | Technology Stack |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have succes
 | **MedCPT-AI** | A specialized healthcare conversational assistant that interprets CPT (Current Procedural Terminology) codes, streamlining medical billing and documentation workflows. | `LLMs` `NLP` `Prompt Engineering` |
 | **Facial Paralysis System** | A medical AI system analyzing facial patterns through advanced computer vision to assist healthcare professionals in early diagnosis and treatment planning. | `Computer Vision` `Face Mapping` |
 
-### 🏭 Business Automation & AI SaaS
+### Business Automation & AI SaaS
 
 | Solution | Enterprise Application Impact | Technology Stack |
 | :--- | :--- | :--- |
@@ -73,7 +73,7 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have succes
 | **Brandelo** | An automated AI marketing suite that streamlines brand identity creation, including high-end generative AI design tasks and logo creation for businesses. | `Generative AI` `Design Algorithms` |
 | **GeoSmarts** | An educational SaaS platform generating comprehensive learning modules using advanced AI architectures to create thorough academic materials. | `GPT Models` `Flux Architecture` |
 
-### 💬 Conversational AI & Advanced NLP
+### Conversational AI & Advanced NLP
 
 | Solution | Enterprise Application Impact | Technology Stack |
 | :--- | :--- | :--- |
@@ -82,7 +82,7 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have succes
 | **Flavour Fellow** | A mobile-first AI application resolving customer queries, delivering allergen alerts, and managing restaurant POS operations using fine-tuned models. | `Flutter` `Fine-Tuned LLMs` |
 | **News Sentiment Analyzer** | A robust intelligence tool tracking global sentiment across news channels, delivering visualized analytical reports based on LLM-driven parsing. | `LLMs` `Sentiment Analysis` `Dashboards`|
 
-### 🏙️ Smart City Infrastructure & Predictive Analytics
+### Smart City Infrastructure & Predictive Analytics
 
 | Solution | Enterprise Application Impact | Technology Stack |
 | :--- | :--- | :--- |
@@ -93,7 +93,7 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, we have succes
 
 <br>
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 I utilize a modern, scalable tech stack to guarantee high performance:
 
@@ -116,7 +116,7 @@ I utilize a modern, scalable tech stack to guarantee high performance:
 
 <br>
 
-## 📈 Analytics
+## Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanrattu&show_icons=true&title_color=0079FF&icon_color=0079FF&text_color=333333&bg_color=F9F9F9&hide_border=true" alt="abdulrehmanrattu stats" />
@@ -127,11 +127,11 @@ I utilize a modern, scalable tech stack to guarantee high performance:
 
 <div align="center">
 
-## 🤝 Let's Build Something Extraordinary
+## Let's Build Something Extraordinary
 
 Looking to optimize your workflows or build a custom AI product? At Rapide Technologies, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation.
 
-**[📧 Drop me an email and let's schedule a meeting](mailto:rattu786.ar@gmail.com)** | **[🌐 Visit Rapide Technologies for Solutions](https://www.rapidetechnologies.com)**
+**[Drop me an email and let's schedule a meeting](mailto:rattu786.ar@gmail.com)** | **[Visit Rapide Technologies for Solutions](https://www.rapidetechnologies.com)**
 
 <br>
 
