@@ -119,8 +119,8 @@ I utilize a highly modern, production-ready technology stack to guarantee maximu
 ## Software Development Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanrattu&show_icons=true&title_color=0079FF&icon_color=0079FF&text_color=333333&bg_color=F9F9F9&hide_border=true" alt="Abdul Rehman Rattu GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehmanrattu&show_icons=true&locale=en&layout=compact&title_color=0079FF&text_color=333333&bg_color=F9F9F9&hide_border=true" alt="Abdul Rehman Rattu Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrehmanrattu&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehmanrattu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <br>
