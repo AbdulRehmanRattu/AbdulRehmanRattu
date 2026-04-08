@@ -3,7 +3,7 @@
 # Abdul Rehman Rattu - AI Expert & ML Consultant
 
 <a href="https://linkedin.com/in/abdul-rehman-rattu-395bba237">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Expert+in+Enterprise+AI+Solutions;Machine+Learning+%26+Computer+Vision+Specialist;SaaS+Product+Development+Consultant" alt="Abdul Rehman Rattu CEO Rapide Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Expert+in+Enterprise+AI+Solutions;Deep+Learning+%26+Computer+Vision+Specialist;SaaS+Product+Development+Consultant" alt="Abdul Rehman Rattu CEO Rapide Technologies" />
 </a>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### Driving Business Growth Through Expert AI Engineering and Automation
 
-As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies.com)** and a proven **Artificial Intelligence Expert**, I specialize in designing and delivering high-impact **Machine Learning Solutions, AI SaaS Products, and Enterprise Business Automations**. My core mission is to help global businesses scale operations, optimize complex workflows, and increase revenue through cutting-edge AI product development. If you are seeking a senior AI consultant with a track record of transforming raw data into tangible business ROI, you are in the right place.
+As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies.com)** and a proven **Artificial Intelligence Expert**, I specialize in designing and delivering high-impact **Advanced AI Solutions, AI SaaS Products, and Enterprise Business Automations**. My core mission is to help global businesses scale operations, optimize complex workflows, and increase revenue through cutting-edge AI product development. If you are seeking a senior AI consultant with a track record of transforming raw data into tangible business ROI, you are in the right place.
 
 </div>
 
@@ -27,8 +27,8 @@ As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>AI Business Solutions & Machine Learning</h3>
-      <p>Expert consulting and development of custom predictive AI models, deep learning architectures, and machine learning systems tailored specifically to solve complex enterprise challenges and drive strategic decision-making.</p>
+      <h3>AI Business Solutions & Deep Architecture</h3>
+      <p>Expert consulting and development of custom predictive AI models, deep learning architectures, and cognitive AI systems tailored specifically to solve complex enterprise challenges and drive strategic decision-making.</p>
     </td>
     <td width="50%" valign="top">
       <h3>AI SaaS & Full-Stack Product Development</h3>
@@ -59,7 +59,7 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, my team and I 
 | :--- | :--- | :--- |
 | **EpiDetect** | An advanced AI-driven diagnostic tool designed to monitor and detect epileptic conditions, providing healthcare practitioners with comprehensive analytical capabilities and accurate diagnosis support. | `Computer Vision` `Deep Learning` `Python` |
 | **DermaSense** | A professional AI-powered application for real-time skin condition analysis and remote virtual dermatological consultations, delivering reliable, personalized healthcare advice. | `YOLOv5` `GPT-3.5` `PyQt5` |
-| **Rapide Medical Assistant** | An intelligent X-ray diagnostic platform combining deep learning, OCR, and a conversational AI interface to extract and predict critical medical insights rapidly and securely. | `Machine Learning` `OCR` `NLP` `GenAI` |
+| **Rapide Medical Assistant** | An intelligent X-ray diagnostic platform combining deep learning, OCR, and a conversational AI interface to extract and predict critical medical insights rapidly and securely. | `Deep Learning` `OCR` `NLP` `GenAI` |
 | **MedCPT-AI** | A specialized healthcare conversational consultant that accurately interprets CPT (Current Procedural Terminology) codes, significantly streamlining medical billing and administrative documentation workflows. | `LLMs` `NLP` `Prompt Engineering` |
 | **Facial Paralysis System** | A highly specialized medical AI system analyzing complex facial patterns through advanced computer vision to assist healthcare professionals in early diagnosis and precise treatment planning. | `Computer Vision` `Face Mapping` |
 
@@ -129,7 +129,7 @@ I utilize a highly modern, production-ready technology stack to guarantee maximu
 
 ## Looking for an AI Expert for Your Next Project?
 
-If you are a business owner or enterprise stakeholder looking to optimize your workflows, build a custom SaaS architecture, or deploy a transformative AI product, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation. With my proven track record as a Machine Learning Consultant and AI Developer, your project is in excellent hands.
+If you are a business owner or enterprise stakeholder looking to optimize your workflows, build a custom SaaS architecture, or deploy a transformative AI product, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation. With my proven track record as an Enterprise AI Consultant and AI Developer, your project is in excellent hands.
 
 **[Contact Abdul Rehman Rattu for an Executive Consultation](mailto:rattu786.ar@gmail.com)**
 
