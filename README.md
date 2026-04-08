@@ -131,7 +131,9 @@ I utilize a highly modern, production-ready technology stack to guarantee maximu
 
 If you are a business owner or enterprise stakeholder looking to optimize your workflows, build a custom SaaS architecture, or deploy a transformative AI product, **[we help real businesses](https://www.rapidetechnologies.com)** achieve scale through intelligent automation. With my proven track record as a Machine Learning Consultant and AI Developer, your project is in excellent hands.
 
-**[Contact Abdul Rehman Rattu to schedule an executive consultation](mailto:rattu786.ar@gmail.com)** | **[Visit Rapide Technologies for Comprehensive AI Solutions](https://www.rapidetechnologies.com)**
+**[Contact Abdul Rehman Rattu for an Executive Consultation](mailto:rattu786.ar@gmail.com)**
+
+**[Connect on LinkedIn](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)** | **[Visit Rapide Technologies for Solutions](https://www.rapidetechnologies.com)**
 
 <br>
 
