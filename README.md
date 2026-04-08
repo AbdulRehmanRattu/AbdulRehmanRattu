@@ -3,7 +3,7 @@
 # Abdul Rehman Rattu - AI Expert & ML Consultant
 
 <a href="https://linkedin.com/in/abdul-rehman-rattu-395bba237">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Expert+in+Enterprise+AI+Solutions;Deep+Learning+%26+Computer+Vision+Specialist;SaaS+Product+Development+Consultant" alt="Abdul Rehman Rattu CEO Rapide Technologies" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&pause=1000&color=0079FF&center=true&vCenter=true&width=800&height=80&lines=Founder+%26+CEO+at+Rapide+Technologies;Expert+in+Agentic+AI+%26+Enterprise+Solutions;Deep+Learning+%26+Computer+Vision+Specialist;SaaS+Product+Development+Consultant" alt="Abdul Rehman Rattu CEO Rapide Technologies" />
 </a>
 
 <p align="center">
@@ -37,8 +37,8 @@ As the **Founder and CEO of [Rapide Technologies](https://www.rapidetechnologies
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>NLP, GenAI & Business Automations</h3>
-      <p>Streamlining operational business workflows by integrating intelligent automation. Expertise ranges from Large Language Models (LLMs), conversational AI chatbots, to highly accurate OCR data extraction systems.</p>
+      <h3>Agentic AI, GenAI & Business Automations</h3>
+      <p>Streamlining operational business workflows by integrating intelligent automation. Expertise ranges from Large Language Models (LLMs), autonomous Agentic AI systems, to highly accurate OCR data extraction systems.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Computer Vision & Predictive Analytics</h3>
@@ -73,12 +73,12 @@ At **[Rapide Technologies](https://www.rapidetechnologies.com)**, my team and I 
 | **Brandelo** | An automated AI marketing SaaS suite that streamlines corporate brand identity creation, leveraging high-end generative AI design algorithms and intelligent logo creation for digital businesses. | `Generative AI` `Design Algorithms` |
 | **GeoSmarts** | A sophisticated educational SaaS platform capable of generating comprehensive learning modules using advanced AI architectures to create thorough, fact-based academic materials securely. | `GPT Models` `Flux Architecture` |
 
-### Conversational AI & Large Language Models (LLMs)
+### Agentic AI, Autonomous Systems & Large Language Models (LLMs)
 
 | Solution | Enterprise Application Impact | Core Technology Stack |
 | :--- | :--- | :--- |
 | **Persona Pitch** | A sophisticated voice-to-voice corporate assistant designed to train enterprise sales teams by dynamically simulating diverse client personalities, moods, and sales objections flawlessly. | `GPT-4` `Whisper Speech` `Voice AI` |
-| **AstroAI** | A high-performance conversational AI interface providing automated, highly personalized insights and real-time text generation wrapped in an intuitive, consumer-grade GUI. | `Python` `Tkinter` `OpenAI API` |
+| **AstroAI** | A high-performance Agentic AI interface providing automated, highly personalized insights and independent reasoning wrapped in an intuitive, consumer-grade GUI. | `Agentic AI` `Python` `OpenAI API` |
 | **Flavour Fellow** | A professional mobile-first AI application actively resolving customer queries, delivering crucial allergen alerts, and seamlessly managing modern restaurant POS operations using fine-tuned models. | `Flutter` `Fine-Tuned LLMs` |
 | **News Sentiment Analyzer** | A robust global intelligence tool tracking market sentiment across premium news channels, delivering highly visualized business analytical reports based on advanced LLM-driven parsing. | `LLMs` `Sentiment Analysis` `Dashboards`|
 
